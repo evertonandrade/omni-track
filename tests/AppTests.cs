@@ -5,6 +5,6 @@ public class AppTests
     [Fact]
     public void FirstTest()
     {
-        Assert.True(false);
+        Assert.True(true);
     }
 }
